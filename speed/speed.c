@@ -18,7 +18,6 @@
  *         2.2.2 Multiply minutes by 60 (60 seconds == 1 minute) to get seconds.
  *     2.3 Divide meters by seconds
  */
-
 #include <stdio.h>
 
 #define MILES 425.5
